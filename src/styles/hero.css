@@ -1,0 +1,19 @@
+  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+.hero-heading{
+    font-family: 'Sora', sans-serif;
+}
+.hero-text{
+    font-family: 'Inter', sans-serif;
+}
+.install-btn{
+    font-family: 'Work Sans', sans-serif;
+}
+/* .container {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 0.4rem;
+    align-items: start;
+  } */

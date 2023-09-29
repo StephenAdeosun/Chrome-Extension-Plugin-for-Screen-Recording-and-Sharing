@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&display=swap');	
+.feature-heading{
+    font-family: 'Sora', sans-serif;
+}
+.feature-text{
+    font-family: 'Work Sans', sans-serif;
+}
+.record-feature{
+    font-family: 'Inter', sans-serif;
+}
